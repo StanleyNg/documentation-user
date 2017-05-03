@@ -6,17 +6,16 @@ Conditions Générales de Vente
 
 .. note:: Dernière modification: 3 mai 2017.
 
-
-Ces Conditions Générales de Vente régissent la vente de produits et service par
-Odoo S.A. à vous. Des conditions supplémentaires peuvent s'appliquer pour
+Ces conditions régissent la vente de produits et services entre
+Odoo S.A. et le client. Des conditions supplémentaires peuvent s'appliquer pour
 d'autres services offerts par Odoo S.A. (par exemple, l'Odoo Enterprise
-Subscription Agreement). Si ces conditions supplémentaires sont incompatibles
-avec les Conditions Générales de Vente, ces conditions supplémentaires
-supplantent les Conditions Générales.
+Subscription Agreement). Si ces conditions supplémentaires entrent en
+contradiction avec les Conditions Générales de Vente, les conditions
+supplémentaires prévaudront.
 
-Veuillez lire ces conditions attentivement avant de confirmer une offre avec
-Odoo S.A.. En confirmant une offre avec Odoo S.A., vous marquez votre accord
-avec ces conditions.
+Veuillez lire ces conditions attentivement avant de faire une commande
+auprès d'Odoo S.A. En commandant auprès d'Odoo S.A., le client marque son
+accord avec les présentes conditions.
 
 Le client renonce explicitement à ses propres conditions générales, même dans le
 cas où celles-ci seraient postérieures aux présentes conditions générales. Toute
@@ -60,7 +59,7 @@ dommages et intérêts formulée par le consommateur final à l'encontre du clie
 
 Dans la limite autorisée par la loi, la responsabilité globale de chaque partie,
 ainsi que de ses filiales ne dépassera pas 50% du montant total réglé par le
-Client en vertu des présente Conditions au cours des 12 mois précédant la date
+Client en vertu des présentes conditions au cours des 12 mois précédant la date
 de l'événement donnant lieu à une telle réclamation. Des réclamations multiples
 n'augmenteront pas cette limite.
 
@@ -69,8 +68,8 @@ siège social, par courrier recommandé dans les 8 jours suivant la livraison de
 marchandises ou la prestation des services.
 
 Odoo S.A. se réserve le droit de modifier ces conditions à n'importe quel moment
-et sans notification préalable. Vous êtes soumis aux conditions en application
-au moment de votre acceptation de ces conditions.
+et sans notification préalable. Le client est soumis aux conditions en
+application au moment de votre acceptation de ces conditions.
 
 Tout litige résultant de la présente convention ressort de l’application du
 droit belge et est de la compétence des Tribunaux de l’arrondissement du siège

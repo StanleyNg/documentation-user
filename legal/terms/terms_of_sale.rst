@@ -7,13 +7,14 @@ General Terms of Sale
 .. note:: Last revision: May 3, 2017.
 
 These General Terms of Sale govern the sale of products and services by
-Odoo S.A. to you. Additional terms may apply for services provided by Odoo S.A.
-(for example, the Enterprise  Subscription Agreements). If these additional
-terms are inconsistent with the General Terms of Sale, the additional terms will
-supersede these terms.
+Odoo S.A. to the client. Additional terms may apply for services provided by
+Odoo S.A. (for example, the Enterprise Subscription Agreement). If these
+additional terms are inconsistent with the General Terms of Sale, the additional
+terms will prevail over these General Terms of Sale.
 
-Please read these terms carefully before placing an order with Odoo S.A.. By
-accepting an order with Odoo S.A., you mark your acceptance with these terms.
+Please read these terms carefully before placing an order with Odoo S.A. By
+accepting an order with Odoo S.A., the client marks his acceptance with these
+terms.
 
 The client explicitly waives its own standard terms and conditions, even if
 these were drawn up after these standard terms and conditions of sale. In
@@ -56,8 +57,8 @@ preceding the date of the event giving rise to such claim. Multiple claims shall
 not enlarge this limitation.
 
 Odoo S.A. reserves the right to modify these terms at any time without prior
-notice. You will be subject to the terms in force at the time of acceptation of
-those terms.
+notice. The client will be subject to the terms in force at the time of
+acceptation of those terms.
 
 All our contractual relations will be governed exclusively by Belgian law.
 Moreover, any dispute that may arise will be subject exclusively to the
